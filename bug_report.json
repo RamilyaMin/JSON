@@ -1,1 +1,8 @@
-
+{
+ {taitl: "Search on the main page does not work when tapping on the input field",
+ steps: "
+1. Navigate to capital.com
+2. Tap button [Burger Menu]
+3. Tap in search field"
+}
+}
